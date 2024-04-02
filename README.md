@@ -2,9 +2,9 @@
 ## Sales Report :
 
 
-- **Project objective:** 
+- **Project Goal:** 
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+    **1.** 1. To get understanding of customer behavior and trends, by creating a thorough [customer performance report] 
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
 
