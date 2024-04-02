@@ -4,15 +4,15 @@
 
 - **Project Goal:** 
 
-    **1.** 1. To get understanding of customer behavior and trends, by creating a thorough [customer performance report](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
+    **1.** 1. To get understanding of customer behavior and trends, by creating a thorough [customer performance report.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.**  To assist the organization in making strategic decisions by comparing [market performance and sales targets.]()
 
-- **Purpose of sales analytics:** The purpose of sales analytics encompasses evaluating financial performance, aiding decision-making processes, and foster effective communication with stakeholders.
+- **Purpose of sales analytics:** Sales analytics is used to evaluate financial performance, help decision-making processes, and improve communication with stakeholders.
 
-- **Importance of analyzing sales data:** Analyzing sales data helps to identify sales patterns and track key performance indicators (KPIs).
+- **Significance of analyzing sales data:** The significance of analyzing sales data lies in its ability to help you see trends in sales and evaluate key performance indicators (KPIs), both of which are necessary for making informed decisions.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+- **Role of reports:** The function of reports is to maximize client discounts, support negotiations, and pinpoint opportunities for business expansion in lucrative markets.
 
 
 ## Finance Report :
