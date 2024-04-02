@@ -4,9 +4,9 @@
 
 - **Project Goal:** 
 
-    **1.** 1. To get understanding of customer behavior and trends, by creating a thorough [customer performance report.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
+    **1.** To get understanding of customer behavior and trends, by creating a thorough [customer performance report.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf) 
 
-    **2.**  To assist the organization in making strategic decisions by comparing [market performance and sales targets.]()
+    **2.**  To assist the organization in making strategic decisions by comparing [market performance and sales targets.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)
 
 - **Purpose of sales analytics:** Sales analytics is used to evaluate financial performance, help decision-making processes, and improve communication with stakeholders.
 
