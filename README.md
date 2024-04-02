@@ -17,29 +17,29 @@
 
 ## Finance Report :
 
-- **Project objective:** 
+- **Project Goal:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports structured by [Fiscal Years]() and [Months]() to provide detailed insights into financial performance over time.
+  
+   **2.** Create Profit and Loss (P&L) reports by [Markets] ()
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+- **Purpose of Finacial Analysis:** The goal of financial analytics is to enhance decision-making procedures, assess financial performance, and enable efficient stakeholder communication.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Significance of analyzing Finance data:** The significance of analyzing finance data is in its ability to compare against competitors in the same industry and past periods, which serves as a basis for forecasting and budgeting procedures.
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Reports' Function::** Reports are essential for ensuring that financial planning is in line with strategic goals and for giving stakeholders faith in the organization's financial future.
 
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Ability to derive fiscal months and quarters to align with financial reporting requirements.
+- [x]	Expertise in establishing data model relationships with Power Pivot for robust data analysis.
 - [x]	Proficiency in incorporating supplementary data into an existing data model.
 - [x]	Utilizing DAX to create calculated columns.
 
 ## Soft Skills:
 - [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Designing user-centric reports with empathy to enhance usability and comprehension.
+- [x]	Optimization of report generation through meticulous fine-tuning to ensure efficiency and accuracy.
 - [x]	Developing a systematic approach to devising a report building plan.
