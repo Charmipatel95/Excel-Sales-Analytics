@@ -6,7 +6,7 @@
 
     **1.** To get understanding of customer behavior and trends, by creating a thorough _[customer performance report.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
-    **2.**  To assist the organization in making strategic decisions by comparing _[market performance and sales targets.]_(https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)
+    **2.**  To assist the organization in making strategic decisions by comparing _[market performance and sales targets.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)_
 
 - **Purpose of sales analytics:** Sales analytics is used to evaluate financial performance, help decision-making processes, and improve communication with stakeholders.
 
@@ -19,9 +19,9 @@
 
 - **Project Goal:** 
 
-    **1.** Create Profit and Loss (P&L) reports structured by _[Fiscal Years]_(https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and _[Months]_(https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf) to provide detailed insights into financial performance over time.
+    **1.** Create Profit and Loss (P&L) reports structured by _[Fiscal Years](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and _[Months](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Month.pdf)_ to provide detailed insights into financial performance over time.
   
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]_(https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/P%26L%20Statements%20by%20Markets.pdf)
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/P%26L%20Statements%20by%20Markets.pdf)_
 
 - **Purpose of Finacial Analysis:** The goal of financial analytics is to enhance decision-making procedures, assess financial performance, and enable efficient stakeholder communication.
 
