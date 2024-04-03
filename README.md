@@ -6,7 +6,7 @@
 
     **1.** To get understanding of customer behavior and trends, by creating a thorough _[customer performance report.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_
 
-    **2.**  To assist the organization in making strategic decisions by comparing _[market performance and sales targets.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Market%20Performance%20Report.pdf)_
+    **2.**  To assist the organization in making strategic decisions by comparing _[market performance and sales targets.](https://github.com/Charmipatel95/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
 
 - **Purpose of sales analytics:** Sales analytics is used to evaluate financial performance, help decision-making processes, and improve communication with stakeholders.
 
